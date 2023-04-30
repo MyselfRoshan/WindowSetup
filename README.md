@@ -43,3 +43,9 @@ winget-install.ps1
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 ```
+
+## Some of the system utility tools
+
+- [Tron](https://github.com/bmrf/tron) - An automated PC cleanup script **(RECOMMENDED)**
+- [Kasperky Rescue Disk](https://www.kaspersky.co.in/downloads/free-rescue-disk)
+- [Kasperky Virus Removal Tool](https://www.kaspersky.co.in/downloads/free-virus-removal-tool)
