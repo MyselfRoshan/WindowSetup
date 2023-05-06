@@ -55,3 +55,9 @@ irm get.scoop.sh | iex
 - [Tron](https://github.com/bmrf/tron) - An automated PC cleanup script **(RECOMMENDED)**
 - [Kasperky Rescue Disk](https://www.kaspersky.co.in/downloads/free-rescue-disk)
 - [Kasperky Virus Removal Tool](https://www.kaspersky.co.in/downloads/free-virus-removal-tool)
+
+## Some of the recommended software
+
+- [qbittorrent](https://www.qbittorrent.org/download) - A free and reliable P2P BitTorrent client in C++ / Qt that uses libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg
+- [f.lux](https://justgetflux.com/) - Alternative to Windows nightlight with various options
+- [ShareX](https://getsharex.com/) - Alternative to windows Snipping tools for taking screenshots, record screen, pick colors,etc.
