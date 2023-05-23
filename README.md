@@ -53,7 +53,7 @@ irm get.scoop.sh | iex
 ## Some of the system utility tools
 
 - [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/) - A portable tool to install and update device drivers
-  > ### Note: DO NOT USE **'Snappy Driver Installer'**, it is known for being malware, only **'Snappy Driver Installer Origin'** -> [Reddit Thread](https://www.reddit.com/r/software/comments/ui3orx/snappy_driver_installer_vs_origin/)
+  > #### Note: DO NOT USE **'Snappy Driver Installer'**, it is known for being malware, only **'Snappy Driver Installer Origin'** -> [Reddit Thread](https://www.reddit.com/r/software/comments/ui3orx/snappy_driver_installer_vs_origin/)
 - [Tron](https://github.com/bmrf/tron) - An automated PC cleanup script **(RECOMMENDED)**
 - [Kasperky Rescue Disk](https://www.kaspersky.co.in/downloads/free-rescue-disk)
 - [Kasperky Virus Removal Tool](https://www.kaspersky.co.in/downloads/free-virus-removal-tool)
