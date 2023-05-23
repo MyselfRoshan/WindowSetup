@@ -60,7 +60,9 @@ irm get.scoop.sh | iex
 
 ## Some of the recommended software
 
-- [qbittorrent](https://www.qbittorrent.org/download) - A free and reliable P2P BitTorrent client in C++ / Qt that uses libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg
-- [f.lux](https://justgetflux.com/) - Alternative to Windows nightlight with various options
+- [qbittorrent](https://www.qbittorrent.org/download) - An opensource and reliable P2P BitTorrent client in C++ / Qt that uses libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg
+- [f.lux](https://justgetflux.com/) - Alternative to Windows nightlight with various options/features.
 - [ShareX](https://getsharex.com/) - Alternative to windows Snipping tools for taking screenshots, record screen, pick colors,etc.
 - [JDownloader](https://jdownloader.org/) - A free and open source download manager
+- [Joplin](https://joplinapp.org/) - An open source note-taking app to capture thoughts and securely access them from any device.
+- [MusicBee](https://getmusicbee.com/) - A music manager and player that makes it easy to manage, find, and play music files on your computer.
