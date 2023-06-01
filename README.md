@@ -70,3 +70,4 @@ irm get.scoop.sh | iex
 - [Bitwarden](https://bitwarden.com/) - A cross platform opensource password manager.
 - [K-Lite Codec](https://codecguide.com/) - An opensource codec application with supports many video and audio formats.
 - [Bleach Bit](https://www.bleachbit.org/) - A free and open-source disk space cleaner, privacy manager, and computer system optimizer.
+- [Kdenlive](https://kdenlive.org/en/) - A free and open source video editor
