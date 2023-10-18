@@ -37,6 +37,12 @@ Install-Script -Name winget-install -Force
 winget-install.ps1
 ```
 
+_`Note : If you face any problem with winget execute the following commands:`_
+```powershell
+winget uninstall Microsoft.Winget.Source_8wekyb3d8bbwe
+winget source reset --force
+```
+
 `Step 2 :` To install choco
 
 ```powershell
