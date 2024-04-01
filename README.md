@@ -16,11 +16,11 @@
 ## Some famous debloating scripts (Recommended)
 
 ```powershell
-irm -useb https://christitus.com/win | iex
+irm https://christitus.com/win | iex
 ```
 
 ```powershell
-irm -useb https://git.io/debloat | iex
+irm https://git.io/debloat | iex
 ```
 
 ## Install Enterprise LTSC version of windows without any bloat
