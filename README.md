@@ -77,6 +77,8 @@ irm get.scoop.sh | iex
 - [Notesnook](https://notesnook.com/) - An open source, end-to-end encrypted, and private note taking app with freedom, no spying, no tracking.
 - [MusicBee](https://getmusicbee.com/) - A music manager and player that makes it easy to manage, find, and play music files on your computer.
 - [Bitwarden](https://bitwarden.com/) - A cross platform opensource password manager.
-- [K-Lite Codec](https://codecguide.com/) - An opensource codec application with supports many video and audio formats.
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller (i.e. BCUninstaller or BCU) is a free bulk program uninstaller with advanced automation.
+- [Revo Uninstaller](https://www.revouninstaller.com/) - Uninstall unwanted programs and their leftovers, quickly and easily!
 - [Bleach Bit](https://www.bleachbit.org/) - A free and open-source disk space cleaner, privacy manager, and computer system optimizer.
-- [Kdenlive](https://kdenlive.org/en/) - A free and open source video editor
+- [K-Lite Codec](https://codecguide.com/) - An opensource codec application with supports many video and audio formats.
+- [Kdenlive](https://kdenlive.org/en/) - A free and open source video editor.
