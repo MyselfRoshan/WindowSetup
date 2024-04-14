@@ -63,6 +63,7 @@ irm get.scoop.sh | iex
 - [Tron](https://github.com/bmrf/tron) - An automated PC cleanup script **(RECOMMENDED)**
 - [Kasperky Rescue Disk](https://www.kaspersky.co.in/downloads/free-rescue-disk)
 - [Kasperky Virus Removal Tool](https://www.kaspersky.co.in/downloads/free-virus-removal-tool)
+- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - A portable tool to perform operations such as list/add/install/delete third-party driver packages and also export them use them after installing new Windows.
 
 ## Some of the recommended software
 
